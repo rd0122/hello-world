@@ -1,4 +1,4 @@
 # hello-world
 Training repository
 
-We will see how this changed will look like.
+We will see how this change will look like.
